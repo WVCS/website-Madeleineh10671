@@ -1,3 +1,23 @@
-body {
-
+body {background-color:#8BA78F; }
+h1{color:white; text-align:center; font-variant: small-caps; font-size:125px; text-shadow: 2px 2px 10px #2C2D24}
+h3{color:white; text-align:center; font-size:50px; font-variant: small-caps; text-shadow: 2px 2px 5px #2C2D24}
+img{
+  ;
+}
+ul{
+  list-style-type: none;
+  text-align:center;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 40px;
+  color: #E8EDE9;
+  font-family: "Copperplate", fantasy;
+  border: dashed;
+}
+li a:hover{
+  background-color: #E8EDE9;
+  color: #8BA78F
 }
